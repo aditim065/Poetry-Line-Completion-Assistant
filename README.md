@@ -1,4 +1,4 @@
-# MP-G01 — Poetry Line Completion Assistant
+# Poetry Line Completion Assistant
 
 This project continues pretraining GPT-2 small (124M) on public-domain poetry text and provides a small Gradio application that suggests continuation lines.
 
