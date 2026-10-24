@@ -1,0 +1,5 @@
+torch>=2.1
+transformers>=4.40
+tiktoken>=0.7
+matplotlib>=3.7
+gradio>=4.0
