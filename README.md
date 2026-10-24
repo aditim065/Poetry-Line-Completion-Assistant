@@ -7,10 +7,6 @@ This project continues pretraining GPT-2 small (124M) on public-domain poetry te
 - `poetry_assistant.py` — preprocessing, sliding-window dataset/DataLoader, training, evaluation, decoding comparison, exact-line copying check, and Gradio application.
 - `data/poetry.txt` — **you must supply** the poetry corpus assigned by your course (target size 5–10 MB).
 - `checkpoint/` — saved model checkpoint created after training.
-- `outputs/loss_curve.png` — training/validation loss plot created by the training run.
-- `outputs/training_results.json` — measured loss, perplexity, dataset/window details, and training time.
-- `outputs/generation_comparison.csv` — generation samples under different decoding settings.
-- `outputs/copying_check.json` — exact normalized line-match rate.
 
 ## 2. Environment setup
 
